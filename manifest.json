@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Download image from Google search thumbnail",
+    "version": "1.0",
+
+    "description": "",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "activeTab", 
+        "contextMenus",
+        "downloads", 
+        "tabs",
+        "*://www.google.com/*"
+        ]
+}
