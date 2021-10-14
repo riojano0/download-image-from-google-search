@@ -6,6 +6,9 @@ Firefox Addon for avoiding to do that extra clicks for download the original fro
 ## How to build
 - TBD
 
+## Pendings
+
+- Allow to work from thumbnail instead of only thumbnail preview
 
 ## Example 
 
