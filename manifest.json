@@ -15,5 +15,10 @@
         "downloads", 
         "tabs",
         "*://www.google.com/*"
-        ]
+        ],
+    
+    "icons": {
+        "16": "./data/icon.png",
+        "32": "./data/icon.png"
+    }
 }
